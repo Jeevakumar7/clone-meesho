@@ -1,0 +1,16 @@
+// // // ES-6
+
+// // 1-variables  = let var const
+// // 2- array methods - foreach used to itarate the objext
+// // 3 arrow function array.map() is used to iterate the array values add = ()=>{} 
+// // 4 De-structure important -> object ,array, function
+// // 5 ternary operate syntax (expextion)? true : false
+
+
+
+// // OOPS
+
+// const number=[1,2,3,4,5];
+// // map.number(e)=>({
+//     console.log(e);
+// }

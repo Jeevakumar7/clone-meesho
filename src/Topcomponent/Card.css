@@ -1,0 +1,64 @@
+.card{
+    width: 173px;
+    /* height: 422.5px; */
+    margin-left: 7cm;   
+    margin-top: 1cm;
+}
+.dress{
+    width: 158px; 
+    height:232px ;
+}
+.card-body{
+    margin-top: -2px;
+}
+.Shoppingcard{
+    text-align: justify;
+    
+}
+.price{
+    color: rgb(51, 51, 51);
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+font-family: "Mier bold";
+margin: 0px;
+padding: 0px;
+margin-top: 0px;
+}
+.star{
+    justify-content: center;
+    display: inline-flex;
+}
+.details{
+    color: rgb(153, 153, 153);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: "Mier demi";
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5px;  
+      
+}
+.content{
+    color: rgb(153, 153, 153);
+    margin-top: -.5cm;
+}
+.card-title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+line-height: 20px;
+font-family: "Mier book";
+margin: 0px;
+padding: 0px;
+}
+.outer{
+    height: 422.5px;
+    width: 173px;
+}

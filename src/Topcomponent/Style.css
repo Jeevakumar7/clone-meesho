@@ -1,0 +1,13 @@
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    padding: 0px;
+    
+}
+.nav{
+    font-family: -apple-system, "Helvetica Neue", sans-serif, "Mier Book";
+    font-weight: 400;
+}
+
+
